@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothCbor", "BluetoothCbor\BluetoothCbor.csproj", "{EDAA63BD-B4A0-48D7-9F91-D47F52A83942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAA63BD-B4A0-48D7-9F91-D47F52A83942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAA63BD-B4A0-48D7-9F91-D47F52A83942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAA63BD-B4A0-48D7-9F91-D47F52A83942}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EDAA63BD-B4A0-48D7-9F91-D47F52A83942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAA63BD-B4A0-48D7-9F91-D47F52A83942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAA63BD-B4A0-48D7-9F91-D47F52A83942}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7084ACB-F407-430E-9C9A-3A9B6D09D211}
+	EndGlobalSection
+EndGlobal
